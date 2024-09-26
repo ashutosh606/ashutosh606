@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is  Ashutosh Kumar</p>
+<p align="left"> Hi, I'm Ashutosh Kumar!
+I'm a Computer Science student at CMRIT, Bengaluru, with experience in backend development and full-stack applications.</p>
 
 ###
 
