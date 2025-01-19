@@ -3,7 +3,7 @@
 ###
 
 <p align="left"> Hi, I'm Ashutosh Kumar!
-I'm a Computer Science student at CMRIT, Bengaluru, with experience in backend development and full-stack applications.</p>
+I'm a Computer Science student at CMRIT, Bangalore</p>
 
 ###
 
@@ -11,7 +11,8 @@ I'm a Computer Science student at CMRIT, Bengaluru, with experience in backend d
 
 ###
 
-<p align="left">📚 I'm currently learning ...<br>      Full Stack Development (MERN stack)<br>    Advanced Data Structures and Algorithms through LeetCode<br>🎯 Goals: <br>Secure a full-time role as a Backend Developer.<br>               Contribute to open-source projects related to web development.</p>
+👨‍💻 Full Stack Developer | Problem Solver | Tech Enthusiast <br>
+🎓 B.E Graduate (2025) from CMR Institute of Technology, Bangalore, skilled in Java, React, Node.js, Express.js, MongoDB, MySQL.
 
 ###
 
